@@ -8,6 +8,8 @@ Ce projet vise à modéliser les tendances des indicateurs de la maladie de la c
 - Une application interactive et intuitive permettant de visualiser l'ensemble des résultats et du travail réalisé de manière simple et efficace.
 
 ⚠️ Accès aux données
+
+
 Ce projet a été réalisé dans le cadre d'un stage en entreprise. Pour des raisons de confidentialité, les données utilisées ne sont pas disponibles dans ce dépôt public. Le code source est mis à disposition à titre de démonstration afin d'illustrer les choix techniques et l'architecture de l'application.
 Sans les données, l'application ne peut pas être lancée localement. Des aperçus visuels de l'interface sont disponibles ci-dessous.
 
